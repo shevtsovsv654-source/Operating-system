@@ -43,17 +43,18 @@
 - Unix;
 - BSD.
   
-Technical Areas
-cloud computing;
-enterprise infrastructure;
-networking;
-cybersecurity;
-server environments;
-mobile ecosystems;
-AI infrastructure;
-technical communication.
-Video Information
-Category	Information
+### Technical Areas
+- cloud computing;
+- enterprise infrastructure;
+- networking;
+- cybersecurity;
+- server environments;
+- mobile ecosystems;
+- AI infrastructure;
+- technical communication.
+- Video Information.
+  
+## Category	Information
 Title	Every Operating System Explained
 Source	Educational YouTube video
 Difficulty Level	B1–B2 Technical English
@@ -77,6 +78,7 @@ AI-assisted glossary creation;
 translation analysis;
 terminology extraction;
 AI-supported technical writing.
+
 Project Structure
 project/
 │
