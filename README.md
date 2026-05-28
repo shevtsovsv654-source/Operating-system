@@ -1,7 +1,7 @@
 # Every Operating System Explained — AI / IT English Project
 ## Project Overview
 
-###This repository contains an AI-assisted AI / IT English learning project focused on:
+### This repository contains an AI-assisted AI / IT English learning project focused on:
 
 - operating systems;
 - technical translation;
@@ -20,27 +20,29 @@
 - technical communication exercises;
 - terminology management.
   
-Project Goals
+## Project Goals
 
-The main goals of the project are:
+### The main goals of the project are:
 
-improve technical English comprehension;
-develop AI / IT translation skills;
-learn operating system terminology;
-practice cloud and cybersecurity vocabulary;
-build prompt engineering skills;
-improve technical communication abilities;
-create a structured AI-assisted learning workflow.
-Topics Covered
-Operating Systems
-Windows
-macOS
-Linux
-ChromeOS
-Android
-iOS
-Unix
-BSD
+- improve technical English comprehension;
+- develop AI / IT translation skills;
+- learn operating system terminology;
+- practice cloud and cybersecurity vocabulary;
+- build prompt engineering skills;
+- improve technical communication abilities;
+- create a structured AI-assisted learning workflow.
+  
+## Topics Covered
+### Operating Systems
+- Windows;
+- macOS;
+- Linux;
+- ChromeOS;
+- Android;
+- iOS;
+- Unix;
+- BSD.
+  
 Technical Areas
 cloud computing;
 enterprise infrastructure;
