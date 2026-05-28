@@ -55,29 +55,37 @@
 - Video Information.
   
 ## Category	Information
-Title	Every Operating System Explained
-Source	Educational YouTube video
-Difficulty Level	B1–B2 Technical English
-Main Focus	Operating systems, cloud computing, cybersecurity, enterprise infrastructure
-Skills Demonstrated
-Technical Translation
-AI / IT terminology adaptation;
-technical collocations;
-professional Russian IT style;
-cloud terminology;
-enterprise vocabulary.
-AI / IT English
-operating system vocabulary;
-cybersecurity terminology;
-networking terminology;
-server infrastructure vocabulary;
-technical communication.
-AI-Assisted Learning
-prompt engineering;
-AI-assisted glossary creation;
-translation analysis;
-terminology extraction;
-AI-supported technical writing.
+### Title	
+Every Operating System Explained.
+
+### Source	
+Educational YouTube video
+
+### Difficulty Level	
+B1–B2 Technical English
+
+### Main Focus	
+Operating systems, cloud computing, cybersecurity, enterprise infrastructure
+
+### Skills Demonstrated
+- Technical Translation
+- AI / IT terminology adaptation;
+- technical collocations;
+- professional Russian IT style;
+- cloud terminology;
+- enterprise vocabulary.
+- AI / IT English
+- operating system vocabulary;
+- cybersecurity terminology;
+- networking terminology;
+- server infrastructure vocabulary;
+- technical communication.
+- AI-Assisted Learning
+- prompt engineering;
+- AI-assisted glossary creation;
+- translation analysis;
+- terminology extraction;
+- AI-supported technical writing.
 
 Project Structure
 project/
