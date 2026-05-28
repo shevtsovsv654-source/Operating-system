@@ -1,24 +1,25 @@
-Every Operating System Explained — AI / IT English Project
-Project Overview
+# Every Operating System Explained — AI / IT English Project
+## Project Overview
 
-This repository contains an AI-assisted AI / IT English learning project focused on:
+###This repository contains an AI-assisted AI / IT English learning project focused on:
 
-operating systems;
-technical translation;
-professional IT terminology development;
-cloud computing vocabulary;
-cybersecurity terminology;
-enterprise infrastructure language;
-AI-assisted educational workflows.
+- operating systems;
+- technical translation;
+- professional IT terminology development;
+- cloud computing vocabulary;
+- cybersecurity terminology;
+- enterprise infrastructure language;
+- AI-assisted educational workflows.
 
-The project is based on the educational YouTube video “Every Operating System Explained” and combines:
+### The project is based on the educational YouTube video “Every Operating System Explained” and combines:
 
-technical English practice;
-translation analysis;
-glossary organization;
-prompt engineering;
-technical communication exercises;
-terminology management.
+- technical English practice;
+- translation analysis;
+- glossary organization;
+- prompt engineering;
+- technical communication exercises;
+- terminology management.
+  
 Project Goals
 
 The main goals of the project are:
