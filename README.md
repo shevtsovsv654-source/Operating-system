@@ -10,8 +10,9 @@
 - AI-assisted learning workflows;
 - technical English practice materials.
 
-Original source materials belong to their respective authors.:
+## Original source materials belong to their respective authors.
 
+### This repository contains an AI-assisted AI / IT English learning project focused on:
 - operating systems;
 - technical translation;
 - professional IT terminology development;
