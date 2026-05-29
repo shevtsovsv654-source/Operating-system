@@ -99,7 +99,7 @@ Operating systems, cloud computing, cybersecurity, enterprise infrastructure
 
 ## Project Structure
 
-##№ project/
+### project/
 - ├── README.md;
 - ├── glossary/;
 - ├── exercises/;
