@@ -98,10 +98,16 @@ Operating systems, cloud computing, cybersecurity, enterprise infrastructure
 - AI-supported technical writing.
 
 ## Project Structure
-| PROJECT              |   Description   |        Price |              |
-| :------------------- | :-------------: | -----------: | ------------ |
-| README.md            |    Glossary     |    Exercises | Key concepts |
-|  Interview questions |Troubleshooting | Prompts used | AI-workflow  |
+
+##№ project/
+- ├── README.md;
+- ├── glossary/;
+- ├── exercises/;
+- ├── key_concepts/;
+- ├── interview_questions/;
+- ├── troubleshooting/;
+- ├── prompts_used/;
+- └── ai_workflow/;
 
 ##Key Concepts Included
 
