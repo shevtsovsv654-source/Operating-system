@@ -97,20 +97,19 @@ Operating systems, cloud computing, cybersecurity, enterprise infrastructure
 - terminology extraction;
 - AI-supported technical writing.
 
-Project Structure
-project/
+## Project Structure
+### project/
 │
-├── README.md
-├── original_text/
-├── translated_text/
-├── glossary/
-├── exercises/
-├── key_concepts/
-├── interview_questions/
-├── troubleshooting/
-├── prompts_used/
-└── ai_workflow/
-Key Concepts Included
+├── README.md;
+├── glossary/;
+├── exercises/;
+├── key_concepts/;
+├── interview_questions/;
+├── troubleshooting/;
+├── prompts_used/;
+└── ai_workflow/.
+
+##Key Concepts Included
 
 The project contains bilingual explanations for:
 
