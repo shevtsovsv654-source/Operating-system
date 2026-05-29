@@ -1,7 +1,16 @@
 # Every Operating System Explained — AI / IT English Project
 ## Project Overview
 
-### This repository contains an AI-assisted AI / IT English learning project focused on:
+### This project is based on publicly available educational materials used for non-commercial educational purposes.
+
+### The repository contains:
+- terminology analysis;
+- educational summaries;
+- translation exercises;
+- AI-assisted learning workflows;
+- technical English practice materials.
+
+Original source materials belong to their respective authors.:
 
 - operating systems;
 - technical translation;
