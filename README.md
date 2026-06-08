@@ -114,16 +114,16 @@ project/
 
 ### The project contains bilingual explanations for:
 
-operating systems
-hardware and software
-command-line interfaces
-cloud infrastructure
-cybersecurity
-scalability
-enterprise infrastructure
-resource management
-seamless integration
-AI infrastructure.
+- operating systems
+- hardware and software
+- command-line interfaces
+- cloud infrastructure
+- cybersecurity
+- scalability
+- enterprise infrastructure
+- resource management
+- seamless integration
+- AI infrastructure.
 
 ## Sample Terminology
 |      **English Term**     | **Russian Translation**       |
@@ -144,13 +144,13 @@ AI infrastructure.
 
 ### Special attention was given to:
 
-hardware vs software distinction
-cloud terminology
-cybersecurity vocabulary
-enterprise terminology
-consumer-tech wording
-literal translation problems
-technical collocations
+- hardware vs software distinction
+- cloud terminology
+- cybersecurity vocabulary
+- enterprise terminology
+- consumer-tech wording
+- literal translation problems
+- technical collocations
 
 ### Examples of Difficult Terminology
 |      **English Term**     | **Russian Translation**       |
@@ -170,130 +170,134 @@ Exercises Included
 
 ## The repository contains:
 
-translation exercises
-terminology practice
-error correction tasks
-AI / IT vocabulary exercises
-cybersecurity terminology tasks
-cloud computing exercises
-enterprise English practice
-technical collocation exercises
-AI Workflow
-AI-Assisted Workflow.
+- translation exercises
+- terminology practice
+- error correction tasks
+- AI / IT vocabulary exercises
+- cybersecurity terminology tasks
+- cloud computing exercises
+- enterprise English practice
+- technical collocation exercises
+- AI Workflow
+- AI-Assisted Workflow.
 
 ## AI tools were used for:
 
-terminology extraction
-translation refinement
-glossary generation
-technical writing analysis
-exercise creation
-prompt engineering
-error correction
-educational feedback.
+- terminology extraction
+- translation refinement
+- glossary generation
+- technical writing analysis
+- exercise creation
+- prompt engineering
+- error correction
+- educational feedback.
 
 ## The AI system functioned as:
 
-a technical language assistant
-a terminology consultant
-a translation reviewer
-a technical writing support tool
-Prompt Engineering
+- a technical language assistant
+- a terminology consultant
+- a translation reviewer
+- a technical writing support tool.
 
-## The project includes structured prompts for:
+## Prompt Engineering
 
-technical translation
-glossary extraction
-error analysis
-technical style adaptation
-exercise generation
-educational workflow organization.
+### The project includes structured prompts for:
+
+-technical translation
+-glossary extraction
+-error analysis
+-technical style adaptation
+-exercise generation
+- educational workflow organization.
 
 ## Prompt Engineering Principles Used
-role prompting
-context-aware prompting
-iterative refinement
-structured outputs
-terminology-focused prompting
-task decomposition.
+- role prompting
+- context-aware prompting
+- iterative refinement
+- structured outputs
+- terminology-focused prompting
+- task decomposition.
 
 ## Educational Value
 
 ### This project demonstrates how AI tools can support:
 
-technical English learning
-translator training
-terminology acquisition
-AI literacy
-technical communication
-independent technical education
-AI-assisted workflows.
+- technical English learning
+- translator training
+- terminology acquisition
+- AI literacy
+- technical communication
+- independent technical education
+- AI-assisted workflows.
 
 ### The project combines:
 
-AI / IT English;
-technical translation;
-cloud and cybersecurity terminology;
-prompt engineering;
-technical communication skills;
-modern AI-assisted educational methods.
-Recommended Audience
+- AI / IT English;
+- technical translation;
+- cloud and cybersecurity terminology;
+- prompt engineering;
+- technical communication skills;
+- modern AI-assisted educational methods.
+  
+## Recommended Audience
 
 ### This project may be useful for:
 
-beginner AI learners;
-translators;
-students;
-non-technical specialists entering IT;
-future technical writers;
-cybersecurity beginners;
-AI / IT English learners.
+- beginner AI learners;
+- translators;
+- students;
+- non-technical specialists entering IT;
+- future technical writers;
+- cybersecurity beginners;
+- AI / IT English learners.
 
 ### Technologies and Concepts Referenced
-Operating Systems
-Linux Infrastructure
-Cloud Computing
-Cybersecurity
-Networking
-Enterprise Systems
-Mobile Ecosystems
-AI Infrastructure
-Technical Communication
-Prompt Engineering
-Project Outcomes.
+- Operating Systems
+- Linux Infrastructure
+- Cloud Computing
+- Cybersecurity
+- Networking
+- Enterprise Systems
+- Mobile Ecosystems
+- AI Infrastructure
+- Technical Communication
+- Prompt Engineering
+
+
+## Project Outcomes
 
 ### After completing the project, the learner:
 
-improved AI / IT English vocabulary
-practiced technical translation
-developed prompt engineering skills
-learned cloud and cybersecurity terminology
-improved technical writing adaptation skills
-strengthened enterprise and infrastructure vocabulary
-developed AI-assisted educational workflow skills.
+- improved AI / IT English vocabulary
+- practiced technical translation
+- developed prompt engineering skills
+- learned cloud and cybersecurity terminology
+- improved technical writing adaptation skills
+- strengthened enterprise and infrastructure vocabulary
+- developed AI-assisted educational workflow skills.
 
 ## Future Improvements
 
 ### Possible future expansions:
 
-Linux command-line projects
-networking practice
-AI infrastructure analysis
-cybersecurity case studies
-API and developer documentation
-DevOps terminology
-cloud platform analysis
-AI tools and LLM terminology.
+- Linux command-line projects
+- networking practice
+- AI infrastructure analysis
+- cybersecurity case studies
+- API and developer documentation
+- DevOps terminology
+- cloud platform analysis
+- AI tools and LLM terminology.
 
 ## Author Notes
 
 ### This repository is part of a long-term AI / IT English learning pathway focused on:
 
-technical translation
-AI-assisted workflows
-professional terminology acquisition
-prompt engineering
-practical IT communication skills
-modern AI literacy.
+- technical translation
+- AI-assisted workflows
+- professional terminology acquisition
+- prompt engineering
+- practical IT communication skills
+- modern AI literacy.
 
 The project emphasizes practical understanding and technical communication rather than purely theoretical language study.
