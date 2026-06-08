@@ -126,19 +126,18 @@ seamless integration;
 AI infrastructure.
 
 ## Sample Terminology
-### English Term	### Russian Translation
-|   **English Term**   | **Russian Translation** |
-|:--------------------:|-------------------------|
-| seamless integration | бесшовная интеграция    |
-| update loop          | зацикливание обновлений |
-| cloud infrastructure | облачная инфраструктура |
-security vulnerability	уязвимость безопасности
-command-line interface	интерфейс командной строки
-proprietary software	проприетарное ПО
-battery life	время автономной работы
-enterprise infrastructure	корпоративная инфраструктура
-bloatware	предустановленное ненужное ПО
-resource management	управление ресурсами
+|      **English Term**     | **Russian Translation**       |
+|:-------------------------:|-------------------------------|
+| seamless integration      | бесшовная интеграция          |
+| update loop               | зацикливание обновлений       |
+| cloud infrastructure      | облачная инфраструктура       |
+| security vulnerability    | уязвимость безопасности       |
+| command-line interface    | интерфейс командной строки    |
+| proprietary software      | проприетарное ПО              |
+| battery life              | время автономной работы       |
+| enterprise infrastructure | корпоративная инфраструктура  |
+| bloatware                 | предустановленное ненужное ПО |
+| resource management       | управление ресурсами          |
 
 
 Common Translation Challenges
