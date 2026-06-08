@@ -1,67 +1,67 @@
 # Every Operating System Explained — AI / IT English Project
 ## Project Overview
 
-### This project is based on publicly available educational materials used for non-commercial educational purposes.
+This project is based on publicly available educational materials used for non-commercial educational purposes.
 
 ### The repository contains:
-- terminology analysis;
-- educational summaries;
-- translation exercises;
-- AI-assisted learning workflows;
+- terminology analysis
+- educational summaries
+- translation exercises
+- AI-assisted learning workflows
 - technical English practice materials.
 
-### Original source materials belong to their respective authors.
+Original source materials belong to their respective authors.
 
 ### This repository contains an AI-assisted AI / IT English learning project focused on:
-- operating systems;
-- technical translation;
-- professional IT terminology development;
-- cloud computing vocabulary;
-- cybersecurity terminology;
-- enterprise infrastructure language;
+- operating systems
+- technical translation
+- professional IT terminology development
+- cloud computing vocabulary
+- cybersecurity terminology
+- enterprise infrastructure language
 - AI-assisted educational workflows.
 
 ### The project is based on the educational YouTube video “Every Operating System Explained” and combines:
 
-- technical English practice;
-- translation analysis;
-- glossary organization;
-- prompt engineering;
-- technical communication exercises;
+- technical English practice
+- translation analysis
+- glossary organization
+- prompt engineering
+- technical communication exercises
 - terminology management.
   
 ## Project Goals
 
 ### The main goals of the project are:
 
-- improve technical English comprehension;
-- develop AI / IT translation skills;
-- learn operating system terminology;
-- practice cloud and cybersecurity vocabulary;
-- build prompt engineering skills;
-- improve technical communication abilities;
+- improve technical English comprehension
+- develop AI / IT translation skills
+- learn operating system terminology
+- practice cloud and cybersecurity vocabulary
+- build prompt engineering skills
+- improve technical communication abilities
 - create a structured AI-assisted learning workflow.
   
 ## Topics Covered
 ### Operating Systems
-- Windows;
-- macOS;
-- Linux;
-- ChromeOS;
-- Android;
-- iOS;
-- Unix;
+- Windows
+- macOS
+- Linux
+- ChromeOS
+- Android
+- iOS
+- Unix
 - BSD.
   
 ### Technical Areas
-- cloud computing;
-- enterprise infrastructure;
-- networking;
-- cybersecurity;
-- server environments;
-- mobile ecosystems;
-- AI infrastructure;
-- technical communication.
+- cloud computing
+- enterprise infrastructure
+- networking
+- cybersecurity
+- server environments
+- mobile ecosystems
+- AI infrastructure
+- technical communication
 - Video Information.
   
 ## Category	Information
@@ -79,22 +79,22 @@ Operating systems, cloud computing, cybersecurity, enterprise infrastructure
 
 ### Skills Demonstrated
 - Technical Translation
-- AI / IT terminology adaptation;
-- technical collocations;
-- professional Russian IT style;
-- cloud terminology;
-- enterprise vocabulary.
+- AI / IT terminology adaptation
+- technical collocations
+- professional Russian IT style
+- cloud terminology
+- enterprise vocabulary
 - AI / IT English
-- operating system vocabulary;
-- cybersecurity terminology;
-- networking terminology;
-- server infrastructure vocabulary;
-- technical communication.
+- operating system vocabulary
+- cybersecurity terminology
+- networking terminology
+- server infrastructure vocabulary
+- technical communication
 - AI-Assisted Learning
-- prompt engineering;
-- AI-assisted glossary creation;
-- translation analysis;
-- terminology extraction;
+- prompt engineering
+- AI-assisted glossary creation
+- translation analysis
+- terminology extraction
 - AI-supported technical writing.
 
 ## Project Structure
@@ -110,9 +110,9 @@ project/
 - └── ai_workflow/;
 ```
 
-##Key Concepts Included
+## Key Concepts Included
 
-The project contains bilingual explanations for:
+### The project contains bilingual explanations for:
 
 operating systems;
 hardware and software;
@@ -124,11 +124,14 @@ enterprise infrastructure;
 resource management;
 seamless integration;
 AI infrastructure.
-Sample Terminology
-English Term	Russian Translation
-seamless integration	бесшовная интеграция
-update loop	зацикливание обновлений
-cloud infrastructure	облачная инфраструктура
+
+## Sample Terminology
+### English Term	### Russian Translation
+|   **English Term**   | **Russian Translation** |
+|:--------------------:|-------------------------|
+| seamless integration | бесшовная интеграция    |
+| update loop          | зацикливание обновлений |
+| cloud infrastructure | облачная инфраструктура |
 security vulnerability	уязвимость безопасности
 command-line interface	интерфейс командной строки
 proprietary software	проприетарное ПО
@@ -136,6 +139,8 @@ battery life	время автономной работы
 enterprise infrastructure	корпоративная инфраструктура
 bloatware	предустановленное ненужное ПО
 resource management	управление ресурсами
+
+
 Common Translation Challenges
 
 Special attention was given to:
