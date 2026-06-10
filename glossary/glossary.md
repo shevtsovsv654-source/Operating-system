@@ -17,10 +17,10 @@ The glossary is intended to support:
 |:------------------------------------------:|:----------------------------------------------------------:|-----------------------------------------------------------------------------------------|
 |     Operating   System (OS)                |     Операционная   система                                 |     Core system software that manages the operation of a computer or device.    |
 |     Hardware                               |     Аппаратное   обеспечение                               |     The physical components of a computer, such as the processor, memory, graphics card, and storage devices.            |
-|     Software                               |     Программное   обеспечение                              |     Программы   и приложения, работающие на устройстве                                  |
-|     Hardware   and software integration    |     Интеграция   аппаратного и программного обеспечения    |     Совместная   оптимизированная работа железа и программ                              |
-|     Compatibility                          |     Совместимость                                          |     Способность   системы работать с различными устройствами и программами              |
-|     Flexibility                            |     Гибкость                                               |     Возможность   адаптации системы под разные задачи                                   |
+|     Software                               |     Программное   обеспечение                              |     Programs and applications that run on a computer or mobile device.                                  |
+|     Hardware   and software integration    |     Интеграция   аппаратного и программного обеспечения    |     The optimized interaction between hardware and software components.                            |
+|     Compatibility                          |     Совместимость                                          |     The ability of a system to work with different hardware devices and software applications.              |
+|     Flexibility                            |     Гибкость                                               |    The ability of a system to be adapted and configured for different tasks and use cases.                                   |
 
 ## User Interfaces
 
