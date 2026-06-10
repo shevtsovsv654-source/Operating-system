@@ -1,5 +1,17 @@
 
-# Glossary of technical terms
+# AI / IT Glossary
+
+## Every Operating System Explained
+
+This glossary contains key technical terms encountered during the project "Every Operating System Explained".
+
+The glossary is intended to support:
+- technical English learning
+- AI / IT terminology acquisition
+- translation practice
+- technical communication skills.
+
+
 ## Operating systems
 |                   Term                   |                           Russian translation                           | Description                                                          |
 |:------------------------------------------:|:----------------------------------------------------------:|-----------------------------------------------------------------------------------------|
