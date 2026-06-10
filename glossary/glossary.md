@@ -15,8 +15,8 @@ The glossary is intended to support:
 ## Operating systems
 |                   Term                   |                           Russian translation                           | Description                                                          |
 |:------------------------------------------:|:----------------------------------------------------------:|-----------------------------------------------------------------------------------------|
-|     Operating   System (OS)                |     Операционная   система                                 |     Базовое   программное обеспечение, управляющее работой компьютера или устройства    |
-|     Hardware                               |     Аппаратное   обеспечение                               |     Физические   компоненты компьютера: процессор, память, видеокарта и т.д.            |
+|     Operating   System (OS)                |     Операционная   система                                 |     Core system software that manages the operation of a computer or device.    |
+|     Hardware                               |     Аппаратное   обеспечение                               |     The physical components of a computer, such as the processor, memory, graphics card, and storage devices.            |
 |     Software                               |     Программное   обеспечение                              |     Программы   и приложения, работающие на устройстве                                  |
 |     Hardware   and software integration    |     Интеграция   аппаратного и программного обеспечения    |     Совместная   оптимизированная работа железа и программ                              |
 |     Compatibility                          |     Совместимость                                          |     Способность   системы работать с различными устройствами и программами              |
