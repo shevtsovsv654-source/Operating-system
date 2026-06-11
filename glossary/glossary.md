@@ -34,3 +34,17 @@ The glossary is intended to support:
 |     Command-Line   Interface (CLI)         |     Интерфейс   командной строки                           | A text-based interface that allows users to control a system by entering commands.         |
 
 ## System Performance
+
+|             Term            |           Russian translation          |                                               Description                                               |
+|:---------------------------:|:--------------------------------------:|:-------------------------------------------------------------------------------------------------------:|
+|         Multitasking        |             Многозадачность            |                   The ability of a system to run multiple processes at   the same time.                 |
+|      Multi-user   system    |     Многопользовательская   система    |                       A system designed to support multiple users   simultaneously.                     |
+|           Stability         |               Стабильность             |           The ability of a system to operate consistently   without failures or interruptions.          |
+|          Reliability        |                Надежность              |     The ability of a system to continue functioning   correctly despite errors or hardware failures.    |
+|          Scalability        |             Масштабируемость           |            The ability of a system to maintain performance as   workload or demand increases.           |
+|       Lightweight   OS      |      Легкая   операционная система     |            A system that requires relatively few hardware   resources to operate efficiently.           |
+|      Highly   optimized     |        Высоко   оптимизированная       |                      Designed to make efficient use of available system   resources.                    |
+|     Smooth   performance    |         Плавная   работа системы       |                  Smooth and responsive operation without noticeable   delays or freezes.                |
+|      Responsive   system    |           Отзывчивая   система         |                        A system that responds quickly to user actions and input.                        |
+|     Resource management     |          Управление ресурсами          |             The process of managing memory, CPU usage, storage, and other system resources.             |
+|       Power management      |      Управление энергопотреблением     |                  A set of technologies used to monitor and optimize power consumption.                  |
