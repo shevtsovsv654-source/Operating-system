@@ -22,7 +22,7 @@
 20.	Technical communication 
 ________________________________________
 ## Exercises 2. Error correction
-### Find and correct errors.
+### Identify and correct the translation mistakes.
 1. Linux was created as an alternative to proprietary operating systems.
 - Linux была создана как альтернатива частным операционным системам.
 ________________________________________
@@ -53,11 +53,11 @@ ________________________________________
 10. The App Store contains carefully reviewed applications.
 - App Store содержит тщательно отлаженные приложения.
 ________________________________________
-## Упражнение 3. Выберите лучший перевод
+## Exercises 3. Choose the best translation.
 1. scalable infrastructure
-A) масштабная инфраструктура
-B) масштабируемая инфраструктура
-C) большая инфраструктура
+- A) масштабная инфраструктура
+- B) масштабируемая инфраструктура
+- C) большая инфраструктура
 ________________________________________
 2. responsive system
 A) отзывчивая система
@@ -79,8 +79,8 @@ A) облачно-базированная система
 B) облачная операционная система
 C) интернет-система
 ________________________________________
-## Упражнение 4. Перевод предложений с проблемными терминами
-### Переведите предложения на русский язык.
+## Exercises 4. Translating Sentences with Key Technical Terms
+### Translate the following sentences into Russian.
 1. Modern operating systems rely heavily on cloud infrastructure and background services.
 2. Some Android devices contain bloatware that cannot be removed easily.
 3. Linux distributions are highly customizable and scalable.
@@ -92,8 +92,8 @@ ________________________________________
 9. The operating system processes large amounts of research data.
 10. Professional developers often prioritize iOS releases.
 ________________________________________
-## Упражнение 5. Найдите буквальный перевод
-### Определите, где перевод слишком буквальный и сделайте его естественным.
+## Exercises 5. Find word-for-word translation
+### Decide where the translation is too literal and make it more natural.
 1
 The system is highly optimized.
 - Система является высоко оптимизированной.
@@ -114,8 +114,8 @@ ________________________________________
 The software performs automatic updates in the background.
 - Программное обеспечение выполняет автоматические обновления на фоне.
 ________________________________________
-## Упражнение 6. Перевод с русского на английский
-### Переведите на английский язык.
+## Exercises 6. Translation from Russian into English.
+### Translate to English.
 1.	Linux широко используется в серверной инфраструктуре и облачных вычислениях. 
 2.	Многие Android-устройства содержат предустановленное ненужное ПО. 
 3.	macOS отличается стабильностью и высокой степенью оптимизации. 
@@ -127,8 +127,8 @@ ________________________________________
 9.	Android предоставляет широкие возможности кастомизации. 
 10.	Интерфейс командной строки может быть сложным для новичков. 
 ________________________________________
-## Упражнение 7. Advanced AI/IT English Practice
-### Переведите более сложные предложения.
+## Exercises 7. Advanced AI/IT English Practice
+### Translate to Russian.
 1. Enterprise infrastructure requires scalable cloud architecture and secure networking capabilities.
 2. Modern AI infrastructure depends heavily on Linux-based server environments.
 3. Mobile operating systems prioritize optimization, battery life, and ecosystem integration.
