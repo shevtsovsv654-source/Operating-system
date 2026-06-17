@@ -1,5 +1,5 @@
-## Упражнение 1. Перевод ключевых IT-терминов
-### Переведите следующие термины на русский язык.
+## Exercises 1. IT key terms translation
+### Translate the following terms into Russian.
 1.	Hardware integration
 2.	Open-source operating system 
 3.	Enterprise infrastructure 
@@ -21,46 +21,36 @@
 19.	Multitasking workload 
 20.	Technical communication 
 ________________________________________
-## Упражнение 2. Исправление типичных ошибок перевода
-### Найдите и исправьте ошибки.
-1
-Linux was created as an alternative to proprietary operating systems.
+## Exercises 2. Error correction
+### Find and correct errors.
+1. Linux was created as an alternative to proprietary operating systems.
 - Linux была создана как альтернатива частным операционным системам.
 ________________________________________
-2
-ChromeOS stores many tasks on cloud infrastructure instead of the local device.
+2. ChromeOS stores many tasks on cloud infrastructure instead of the local device.
 - ChromeOS хранит многие задачи во внутренней памяти устройства.
 ________________________________________
-3
-Many Linux systems rely heavily on command-line interfaces.
+3. Many Linux systems rely heavily on command-line interfaces.
 - Интерфейс Linux представляет собой командную строку.
 ________________________________________
-4
-Android devices may experience security vulnerabilities.
+4. Android devices may experience security vulnerabilities.
 - Android-устройства могут испытывать проблемы с безопасностью.
 ________________________________________
-5
-Manufacturers often install bloatware on smartphones.
+5. Manufacturers often install bloatware on smartphones.
 - Производители часто устанавливают вредоносное ПО.
 ________________________________________
-6
-macOS provides excellent battery life.
+6. macOS provides excellent battery life.
 - macOS обеспечивает долговечные источники питания.
 ________________________________________
-7
-Windows updates sometimes feel intrusive.
+7. Windows updates sometimes feel intrusive.
 - Обновления Windows иногда являются вторгающимися.
 ________________________________________
-8
-The system may enter an update loop.
+8. The system may enter an update loop.
 - Система может войти в обновляющий цикл.
 ________________________________________
-9
-Many games are optimized for Windows.
+9. Many games are optimized for Windows.
 - Многие игры подходят для Windows.
 ________________________________________
-10
-The App Store contains carefully reviewed applications.
+10. The App Store contains carefully reviewed applications.
 - App Store содержит тщательно отлаженные приложения.
 ________________________________________
 ## Упражнение 3. Выберите лучший перевод
@@ -91,26 +81,16 @@ C) интернет-система
 ________________________________________
 ## Упражнение 4. Перевод предложений с проблемными терминами
 ### Переведите предложения на русский язык.
-1
-Modern operating systems rely heavily on cloud infrastructure and background services.
-2
-Some Android devices contain bloatware that cannot be removed easily.
-3
-Linux distributions are highly customizable and scalable.
-4
-Apple devices provide seamless interaction across the entire ecosystem.
-5
-Enterprise servers require stability, reliability, and efficient resource management.
-6
-Many cybersecurity specialists prefer Unix-based systems.
-7
-Older devices may become unresponsive after major software updates.
-8
-Windows sometimes experiences update loops and system corruption.
-9
-The operating system processes large amounts of research data.
-10
-Professional developers often prioritize iOS releases.
+1. Modern operating systems rely heavily on cloud infrastructure and background services.
+2. Some Android devices contain bloatware that cannot be removed easily.
+3. Linux distributions are highly customizable and scalable.
+4. Apple devices provide seamless interaction across the entire ecosystem.
+5. Enterprise servers require stability, reliability, and efficient resource management.
+6. Many cybersecurity specialists prefer Unix-based systems.
+7. Older devices may become unresponsive after major software updates.
+8. Windows sometimes experiences update loops and system corruption.
+9. The operating system processes large amounts of research data.
+10. Professional developers often prioritize iOS releases.
 ________________________________________
 ## Упражнение 5. Найдите буквальный перевод
 ### Определите, где перевод слишком буквальный и сделайте его естественным.
