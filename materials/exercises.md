@@ -1,7 +1,7 @@
 ## Упражнение 1. Перевод ключевых IT-терминов
 ### Переведите следующие термины на русский язык.
 1.	Hardware integration
-2.	2.	Open-source operating system 
+2.	Open-source operating system 
 3.	Enterprise infrastructure 
 4.	System instability 
 5.	Security vulnerability 
@@ -63,7 +63,7 @@ ________________________________________
 The App Store contains carefully reviewed applications.
 - App Store содержит тщательно отлаженные приложения.
 ________________________________________
-Упражнение 3. Выберите лучший перевод
+## Упражнение 3. Выберите лучший перевод
 1. scalable infrastructure
 A) масштабная инфраструктура
 B) масштабируемая инфраструктура
@@ -89,8 +89,8 @@ A) облачно-базированная система
 B) облачная операционная система
 C) интернет-система
 ________________________________________
-Упражнение 4. Перевод предложений с проблемными терминами
-Переведите предложения на русский язык.
+## Упражнение 4. Перевод предложений с проблемными терминами
+### Переведите предложения на русский язык.
 1
 Modern operating systems rely heavily on cloud infrastructure and background services.
 2
@@ -112,30 +112,30 @@ The operating system processes large amounts of research data.
 10
 Professional developers often prioritize iOS releases.
 ________________________________________
-Упражнение 5. Найдите буквальный перевод
-Определите, где перевод слишком буквальный и сделайте его естественным.
+## Упражнение 5. Найдите буквальный перевод
+### Определите, где перевод слишком буквальный и сделайте его естественным.
 1
 The system is highly optimized.
-❌ Система является высоко оптимизированной.
+- Система является высоко оптимизированной.
 ________________________________________
 2
 ChromeOS emphasizes simplicity.
-❌ ChromeOS подчеркивает простоту.
+- ChromeOS подчеркивает простоту.
 ________________________________________
 3
 Android dominates the mobile ecosystem.
-❌ Android доминирует мобильную экосистему.
+- Android доминирует мобильную экосистему.
 ________________________________________
 4
 Unix systems are designed for enterprise environments.
-❌ Unix-системы спроектированы для энтерпрайз-окружений.
+- Unix-системы спроектированы для энтерпрайз-окружений.
 ________________________________________
 5
 The software performs automatic updates in the background.
-❌ Программное обеспечение выполняет автоматические обновления на фоне.
+- Программное обеспечение выполняет автоматические обновления на фоне.
 ________________________________________
-Упражнение 6. Перевод с русского на английский
-Переведите на английский язык.
+## Упражнение 6. Перевод с русского на английский
+### Переведите на английский язык.
 1.	Linux широко используется в серверной инфраструктуре и облачных вычислениях. 
 2.	Многие Android-устройства содержат предустановленное ненужное ПО. 
 3.	macOS отличается стабильностью и высокой степенью оптимизации. 
@@ -147,17 +147,12 @@ ________________________________________
 9.	Android предоставляет широкие возможности кастомизации. 
 10.	Интерфейс командной строки может быть сложным для новичков. 
 ________________________________________
-Упражнение 7. Advanced AI/IT English Practice
-Переведите более сложные предложения.
-1
-Enterprise infrastructure requires scalable cloud architecture and secure networking capabilities.
-2
-Modern AI infrastructure depends heavily on Linux-based server environments.
-3
-Mobile operating systems prioritize optimization, battery life, and ecosystem integration.
-4
-Cybersecurity professionals often rely on Unix-like systems for advanced network administration.
-5
-Cloud platforms process enormous amounts of user data in real time.
+## Упражнение 7. Advanced AI/IT English Practice
+### Переведите более сложные предложения.
+1. Enterprise infrastructure requires scalable cloud architecture and secure networking capabilities.
+2. Modern AI infrastructure depends heavily on Linux-based server environments.
+3. Mobile operating systems prioritize optimization, battery life, and ecosystem integration.
+4. Cybersecurity professionals often rely on Unix-like systems for advanced network administration.
+5. Cloud platforms process enormous amounts of user data in real time.
 
 
