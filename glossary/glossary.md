@@ -33,7 +33,7 @@ The glossary is intended to support:
 |     Graphical   User Interface (GUI)       |     Графический   интерфейс пользователя                   | An interface that allows users to interact with a system through windows, buttons, icons,  |
 |     Command-Line   Interface (CLI)         |     Интерфейс   командной строки                           | A text-based interface that allows users to control a system by entering commands.         |
 
-## System Performance
+## System Architecture and Performance
 
 |             Term            |           Russian translation          |                                               Description                                               |
 |:---------------------------:|:--------------------------------------:|:-------------------------------------------------------------------------------------------------------:|
@@ -48,3 +48,16 @@ The glossary is intended to support:
 |      Responsive   system    |           Отзывчивая   система         |                        A system that responds quickly to user actions and input.                        |
 |     Resource management     |          Управление ресурсами          |             The process of managing memory, CPU usage, storage, and other system resources.             |
 |       Power management      |      Управление энергопотреблением     |                  A set of technologies used to monitor and optimize power consumption.                  |
+
+## System Errors and Troubleshooting
+
+|                Term                |                 Russian translation                |                                        Description                                        |
+|:----------------------------------:|:--------------------------------------------------:|:-----------------------------------------------------------------------------------------:|
+|          System instability        |               Нестабильность   системы             |        Errors and failures that affect the normal operation of an operating system.       |
+|            System   crash          |                   Системный   сбой                 |        A critical failure that causes the system to stop functioning unexpectedly.        |
+|     Blue Screen of Death (BSOD)    |                 Синий   экран смерти               |         A critical Windows error that forces the operating system to stop running.        |
+|          System corruption         |                Повреждение   системы               |    Damage or corruption of system files that affects system stability or functionality.   |
+|           Forced   updates         |             Принудительные   обновления            |        Software updates that are installed automatically without user intervention.       |
+|         Intrusive   updates        |               Навязчивые   обновления              |               Updates that interrupt or interfere with the user’s workflow.               |
+|            Update   loop           |     Цикл   обновлений / зацикливание обновлений    | A situation in which the operating system repeatedly attempts to install the same update. |
+|         Background   updates       |                 Фоновые   обновления               |  Updates that are installed automatically in the background without disrupting the user.  |
