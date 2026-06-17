@@ -1,10 +1,10 @@
 ## Упражнение 1. Перевод ключевых IT-терминов
 ### Переведите следующие термины на русский язык.
-- 1.	Hardware integration 
-- 2.	Open-source operating system 
-- 3.	Enterprise infrastructure 
-- 4.	System instability 
-- 5.	Security vulnerability 
+1.	Hardware integration
+2.	2.	Open-source operating system 
+3.	Enterprise infrastructure 
+4.	System instability 
+5.	Security vulnerability 
 6.	Background updates 
 7.	Cloud computing 
 8.	Content delivery infrastructure 
@@ -25,43 +25,43 @@ ________________________________________
 ### Найдите и исправьте ошибки.
 1
 Linux was created as an alternative to proprietary operating systems.
-❌ Linux была создана как альтернатива частным операционным системам.
+- Linux была создана как альтернатива частным операционным системам.
 ________________________________________
 2
 ChromeOS stores many tasks on cloud infrastructure instead of the local device.
-❌ ChromeOS хранит многие задачи во внутренней памяти устройства.
+- ChromeOS хранит многие задачи во внутренней памяти устройства.
 ________________________________________
 3
 Many Linux systems rely heavily on command-line interfaces.
-❌ Интерфейс Linux представляет собой командную строку.
+- Интерфейс Linux представляет собой командную строку.
 ________________________________________
 4
 Android devices may experience security vulnerabilities.
-❌ Android-устройства могут испытывать проблемы с безопасностью.
+- Android-устройства могут испытывать проблемы с безопасностью.
 ________________________________________
 5
 Manufacturers often install bloatware on smartphones.
-❌ Производители часто устанавливают вредоносное ПО.
+- Производители часто устанавливают вредоносное ПО.
 ________________________________________
 6
 macOS provides excellent battery life.
-❌ macOS обеспечивает долговечные источники питания.
+- macOS обеспечивает долговечные источники питания.
 ________________________________________
 7
 Windows updates sometimes feel intrusive.
-❌ Обновления Windows иногда являются вторгающимися.
+- Обновления Windows иногда являются вторгающимися.
 ________________________________________
 8
 The system may enter an update loop.
-❌ Система может войти в обновляющий цикл.
+- Система может войти в обновляющий цикл.
 ________________________________________
 9
 Many games are optimized for Windows.
-❌ Многие игры подходят для Windows.
+- Многие игры подходят для Windows.
 ________________________________________
 10
 The App Store contains carefully reviewed applications.
-❌ App Store содержит тщательно отлаженные приложения.
+- App Store содержит тщательно отлаженные приложения.
 ________________________________________
 Упражнение 3. Выберите лучший перевод
 1. scalable infrastructure
