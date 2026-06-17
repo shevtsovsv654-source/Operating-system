@@ -61,3 +61,14 @@ The glossary is intended to support:
 |         Intrusive   updates        |               Навязчивые   обновления              |               Updates that interrupt or interfere with the user’s workflow.               |
 |            Update   loop           |     Цикл   обновлений / зацикливание обновлений    | A situation in which the operating system repeatedly attempts to install the same update. |
 |         Background   updates       |                 Фоновые   обновления               |  Updates that are installed automatically in the background without disrupting the user.  |
+
+## Cybersecurity
+
+|               Term              |          Russian translation         |                                          Description                                         |
+|:-------------------------------:|:------------------------------------:|:--------------------------------------------------------------------------------------------:|
+|              Malware            |            Вредоносное   ПО          |        Software designed to damage, disrupt, or gain unauthorized access to a system.        |
+|               Virus             |                 Вирус                |      A type of malicious software that can replicate itself and spread between systems.      |
+|            Cyberattack          |               Кибератака             |           An attempt to compromise a computer system through a network connection.           |
+|     Security   vulnerability    |       Уязвимость   безопасности      |                  A weakness in a system that can be exploited by attackers.                  |
+|        Security   features      |        Средства   безопасности       | Features and technologies designed to protect a system from threats and unauthorized access. |
+|             Firewall            |     Межсетевой   экран / firewall    |                 A security system that monitors and controls network traffic.                |
