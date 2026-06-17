@@ -1,10 +1,10 @@
 ## Упражнение 1. Перевод ключевых IT-терминов
 ### Переведите следующие термины на русский язык.
-1.	Hardware integration 
-2.	Open-source operating system 
-3.	Enterprise infrastructure 
-4.	System instability 
-5.	Security vulnerability 
+-1.	Hardware integration 
+- 2.	Open-source operating system 
+- 3.	Enterprise infrastructure 
+- 4.	System instability 
+- 5.	Security vulnerability 
 6.	Background updates 
 7.	Cloud computing 
 8.	Content delivery infrastructure 
