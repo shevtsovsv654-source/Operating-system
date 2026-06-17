@@ -72,3 +72,27 @@ The glossary is intended to support:
 |     Security   vulnerability    |       Уязвимость   безопасности      |                  A weakness in a system that can be exploited by attackers.                  |
 |        Security   features      |        Средства   безопасности       | Features and technologies designed to protect a system from threats and unauthorized access. |
 |             Firewall            |     Межсетевой   экран / firewall    |                 A security system that monitors and controls network traffic.                |
+
+## Cloud Computing and Enterprise Infrastructure
+
+|                   Term                   |            Russian translation            |                                       Description                                       |
+|:----------------------------------------:|:-----------------------------------------:|:---------------------------------------------------------------------------------------:|
+|             Cloud   computing            |            Облачные   вычисления          |     The use of remote servers over the Internet to process, store, and manage data.     |
+|           Cloud   infrastructure         |          Облачная   инфраструктура        |          A collection of cloud servers, storage resources, and online services.         |
+|        Enterprise   infrastructure       |       Корпоративная   инфраструктура      |        Large-scale IT systems and resources used by businesses and organizations.       |
+|            Server   environment          |              Серверная   среда            |      A computing environment designed to host servers, services, and applications.      |
+|     Content   delivery infrastructure    |     Инфраструктура   доставки контента    |      An infrastructure used to deliver digital content to users over the Internet.      |
+|            AI   infrastructure           |              ИИ-инфраструктура            | The hardware and software infrastructure used to develop, train, and deploy AI systems. |
+
+## Mobile Operating Systems and Ecosystems
+
+|                   Term                   |            Russian translation            |                                          Description                                          |
+|:----------------------------------------:|:-----------------------------------------:|:---------------------------------------------------------------------------------------------:|
+|             Apple   ecosystem            |             Экосистема   Apple            |        The use of remote servers over the Internet to process, store, and manage data.        |
+|           Seamless   interaction         |         Бесшовное   взаимодействие        |             A collection of cloud servers, storage resources, and online services.            |
+|               Battery   life             |          Время   автономной работы        |           Large-scale IT systems and resources used by businesses and organizations.          |
+|           Flagship   smartphone          |           Флагманский   смартфон          |          A premium device model with the highest specifications in a product lineup.          |
+|           Third-party   launcher         |             Сторонний   лаунчер           | A third-party Android interface that replaces or modifies the default home screen experience. |
+|                 Bloatware                |       Предустановленное   ненужное ПО     |            Unnecessary pre-installed applications added by the device manufacturer.           |
+|             Software   support           |           Программная   поддержка         |       Ongoing maintenance that provides software updates and compatibility improvements.      |
+|     Carefully   reviewed applications    |     Тщательно   проверенные приложения    |             Applications that have been reviewed and approved before publication.             |
