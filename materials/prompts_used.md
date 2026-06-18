@@ -19,36 +19,37 @@ The prompts demonstrate practical AI-assisted workflows for technical language l
 
 Technical translation and adaptation of IT content into professional Russian technical language.
 
-Prompt
+### Prompt
 
-Act as a professional technical translator specializing in AI and IT terminology. Compare the English original and the Russian translation. Evaluate:
+Act as a professional technical translator specializing in AI and IT terminology. Compare the English original and the Russian translation. 
+Evaluate:
 
-technical accuracy;
-terminology usage;
-naturalness of Russian IT style;
-translation of technical collocations;
-semantic precision.
+- technical accuracy;
+- terminology usage;
+- naturalness of Russian IT style;
+- translation of technical collocations;
+- semantic precision.
 
 Identify:
 
-literal translation mistakes;
-terminology errors;
-unnatural Russian constructions;
-cybersecurity and cloud terminology issues.
+- literal translation mistakes;
+- terminology errors;
+- unnatural Russian constructions;
+- cybersecurity and cloud terminology issues.
 
 Provide:
 
-detailed corrections;
-explanation of terminology;
-improved professional translation variants.
+- detailed corrections;
+- explanation of terminology;
+- improved professional translation variants.
 
 Special attention should be given to:
 
-hardware vs software distinction;
-enterprise terminology;
-cloud computing vocabulary;
-consumer technology terminology;
-cybersecurity concepts.
+- hardware vs software distinction;
+- enterprise terminology;
+- cloud computing vocabulary;
+- consumer technology terminology;
+- cybersecurity concepts.
 
 ## 2. Glossary Extraction Prompt
 Purpose
