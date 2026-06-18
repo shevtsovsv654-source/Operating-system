@@ -2,21 +2,21 @@
 ## AI-Assisted Workflow
 This project was completed using an AI-assisted educational and translation workflow focused on AI / IT English development, technical terminology acquisition, and professional translation practice.
 Artificial intelligence tools were used not as a replacement for human analysis, but as a support system for:
-•	terminology clarification;
-•	translation refinement;
-•	technical vocabulary analysis;
-•	glossary development;
-•	prompt-based learning;
-•	professional language adaptation.
+- •	terminology clarification;
+- •	translation refinement;
+- •	technical vocabulary analysis;
+- •	glossary development;
+- •	prompt-based learning;
+- •	professional language adaptation.
 ________________________________________
-1. Terminology Extraction
+## 1. Terminology Extraction
 AI tools were used to identify and extract:
-•	operating system terminology;
-•	cloud computing vocabulary;
-•	cybersecurity terminology;
-•	enterprise infrastructure terminology;
-•	consumer technology expressions;
-•	technical collocations.
+- •	operating system terminology;
+- •	cloud computing vocabulary;
+- •	cybersecurity terminology;
+- •	enterprise infrastructure terminology;
+- •	consumer technology expressions;
+- •	technical collocations.
 Special attention was given to complex technical expressions such as:
 •	seamless integration;
 •	cloud infrastructure;
