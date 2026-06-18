@@ -30,20 +30,20 @@ Act as a professional technical translator specializing in AI and IT terminology
 - translation of technical collocations;
 - semantic precision.
 
-Identify:
+#### Identify:
 
 - literal translation mistakes;
 - terminology errors;
 - unnatural Russian constructions;
 - cybersecurity and cloud terminology issues.
 
-Provide:
+#### Provide:
 
 - detailed corrections;
 - explanation of terminology;
 - improved professional translation variants.
 
-Special attention should be given to:
+#### Special attention should be given to:
 
 - hardware vs software distinction;
 - enterprise terminology;
