@@ -22,7 +22,7 @@ Technical translation and adaptation of IT content into professional Russian tec
 ### Prompt
 
 Act as a professional technical translator specializing in AI and IT terminology. Compare the English original and the Russian translation. 
-Evaluate:
+#### Evaluate:
 
 - technical accuracy;
 - terminology usage;
