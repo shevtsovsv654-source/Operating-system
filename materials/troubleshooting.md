@@ -41,7 +41,7 @@ Explanation
 Battery life describes how long a device works without recharging.
 ________________________________________
 ## 5. Confusing “Optimized” and “Designed”
-###Common Mistake
+### Common Mistake
 Replacing “optimized for” with “designed for.”
 ### Incorrect Example
 ❌ games designed for Windows
