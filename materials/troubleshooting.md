@@ -2,7 +2,7 @@
 ## 1. Confusing Hardware and Software
 ### Common Mistake
 Translating “hardware” and “software” incorrectly or using them interchangeably.
-Incorrect Example
+### Incorrect Example
 ❌ expensive software
 (when the original text refers to hardware)
 ### Correct Example
